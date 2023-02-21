@@ -7,7 +7,9 @@ Project Link: https://localbarbers.netlify.app/
 
 <img width="1192" alt="Screenshot 2023-02-19 at 2 12 32 PM" src="https://user-images.githubusercontent.com/113389785/219980208-b8fc72d3-0c7a-47cb-a284-6b31fd502a4c.png">
 
-How It's Made: Tech used: HTML, CSS & JavaScript(Single Function for Menu on mobile devices)
+# How It's Made: 
+
+## Tech used: HTML, CSS & JavaScript(Single Function for Menu on mobile devices)
 
 This website was created using a combination of Flexbox CSS and media queries to ensure it is optimized for all devices, from desktops to smartphones.
 
@@ -15,11 +17,11 @@ Flexbox CSS is a powerful tool for designing layouts that adapt to different scr
 
 In addition to Flexbox, media queries were also used to optimize the website's appearance for different devices. Media queries allow you to define different CSS styles for different screen sizes, making it easy to customize the website's layout for mobile devices or desktop screens.
 
-Optimizations
+## Optimizations
 
-Responsive Design: The website is built using a responsive design approach, which ensures that it is optimized for all devices, from large desktop screens to small mobile devices. This includes using media queries, flexible grids, and other techniques to ensure that the layout adapts to the user's device.
+When I have more time to I would like to go back and fix some of the aesethics within the content of the page. Incorporate a user portal with the ability to book appointments and have access to past appointment info. Incorporate a POS to complete transactions prior to visiting the shop.
 
-Lessons Learned:
+## Lessons Learned:
 
 -Keep it Simple: One of the key lessons learned was the importance of simplicity. By keeping the website's design and functionality simple, it was easier to create, test, and maintain. This also ensured that the website was easy to use and understand for visitors.
 
@@ -30,3 +32,7 @@ Lessons Learned:
 -Test, Test, Test: Testing is critical for any web development project. By testing the website thoroughly, it was easier to identify and fix bugs and ensure that the website was accessible and user-friendly.
 
 -Keep Learning: Finally, web development is a constantly evolving field, and it's important to keep learning and staying up to date with the latest trends and techniques. This ensures that the website is optimized for the best user experience, and that the development team continues to improve and grow their skills.
+
+## More Projects
+
+https://github.com/joshuaow91
